@@ -20,6 +20,8 @@
 
 - 📝 Feel free to reach out to me here: <a href="nayank996@gmail.com" style="text-decoration: none;">Email</a>
 
+- 📝 bento.me check here:- <a href="https://bento.me/nayankumar0304" style="text-decoration: none;">bento</a>
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
