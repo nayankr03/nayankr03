@@ -11,7 +11,7 @@
 </p>
 
 ### 🙋‍♀️ About Me
-- 👩‍🎓 Currently Pursuing BCA (DS & AI)at **ICFAI UNIVERSITY JHARKHAND**.
+- 👩‍🎓 Currently Pursuing BCA (DS & AI) at **ICFAI UNIVERSITY JHARKHAND**.
 
 - 🔭 I’m looking to contribute to **Open Source**
 
