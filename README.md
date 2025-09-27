@@ -1,47 +1,50 @@
-<div align="center" >
+<div align="center">
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Nayan Kumar</h1>
 
-<h3 align="center">|| A Student || Web developer Learner ||</h3>
+<h3 align="center">|| Student || Aspiring Web Developer || Tech Enthusiast ||</h3>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-### 🙋‍♀️ About Me
-- 👩‍🎓 Currently Pursuing BCA (DS & AI) at **ICFAI UNIVERSITY JHARKHAND**.
+### 🙋‍♂️ About Me
+- 🎓 Currently pursuing **BCA (DS & AI)** at **ICFAI University, Jharkhand**.  
+- 💻 Passionate about **Web Development, Programming, and AI**.  
+- 🔭 Looking to contribute to **Open Source projects**.  
+- 🌱 Exploring new technologies and improving coding skills.  
+- 📝 Reach me via Email: [nayank996@gmail.com](mailto:nayank996@gmail.com)  
+- 🌐 My profile on Bento: [bento.me/nayankumar0304](https://bento.me/nayankumar0304)  
 
-- 🔭 I’m looking to contribute to **Open Source**
-
-- 🌱 I’m currently exploring **Web Developer Learner**
-
-
-- 📝 Feel free to reach out to me here: <a href="nayank996@gmail.com" style="text-decoration: none;">Email</a>
-
-- 📝 bento.me check here:- <a href="https://bento.me/nayankumar0304" style="text-decoration: none;">bento</a>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-### 💻 Tech Skills:
+### 💻 Tech Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,Java,Database" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,mysql" />
   </a>
 </p>
 
-
+### 🛠 Tools & Software
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/canva.png" title="Canva"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" title="Adobe Photoshop"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/word.png" title="MS Word"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/></a>
 </p>
-  
-  
-### 📬 Reach me out:
+
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
+
+### 📬 Connect with Me
 <p align="left">
-<a href = "https://www.linkedin.com/in/nayan-kumar-0304n/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://www.instagram.com/mr.n_k_k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  </p>
+  <a href="https://www.linkedin.com/in/nayan-kumar-0304n/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn"/></a>
+  <a href="https://www.instagram.com/mr.n_k_k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a>
+</p>
 
