@@ -29,7 +29,7 @@
 ### 💻 Tech Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,Java,Database" />
   </a>
 </p>
 
