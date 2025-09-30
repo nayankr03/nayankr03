@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+  <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3poYjV3M2g4MmJjajg2NHB3cXoxNHIxcXo1MG0weHg2bTg0ZGkweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Nayan Kumar</h1>
